@@ -10,7 +10,7 @@ class SpecialHeader extends HTMLElement{
     <a href="index.html">Home</a>
     <a href="interesting_stuff.html">Interesting Stuff</a>
     <a href="diary.html">Diary</a>
-    <a href="what_I_learned_today.html">What I Learned Today</a>
+    <a href="wilt.html">What I Learned Today</a>
     <a href="reading_list.html">Reading List</a>
     <a href="ideas.html">Ideas</a>
     <a href="projects.html">Projects</a>
